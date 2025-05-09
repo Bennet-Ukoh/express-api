@@ -32,7 +32,7 @@ node-express-api/
 
 ## Installation
 
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/Bennet-Ukoh/express-api.git)
 cd node-express-api
 npm install
 
